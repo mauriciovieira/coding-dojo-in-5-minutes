@@ -1,0 +1,20 @@
+{
+  "name": "coding-dojo-in-5-minutes",
+  "version": "1.0.0",
+  "description": "Coding Dojo in 5 minutes",
+  "dependencies": {
+    "live-server": "^0.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "coding",
+    "dojo",
+    "training",
+    "test-driven development"
+  ],
+  "author": "Mauricio Vieira",
+  "license": "MIT"
+}
