@@ -4,4 +4,4 @@ Inspired by [Serge's classic presentation](http://www.slideshare.net/serge_rehem
 
 ## In action
 
-`yarn && yarn start`
+`npm i && npm start`
